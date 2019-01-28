@@ -1,0 +1,99 @@
+body{
+    background-color: #ffffff;
+    margin: 15px;
+   padding: 15px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    opacity: 0.7;
+  }
+  .btn:hover {
+    background-color: RoyalBlue;
+    float: right;
+  }
+  div{
+      font-size: 20px;
+  }
+.button2{
+    border: 8px;
+    background-color: black;
+    color:white;
+    border-radius: 6px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+.button1{
+    font-size: 18px;
+    border: 20px;
+    border-radius: 20px;
+    background-color: red;
+    color:white;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+  .center{
+      padding: 60px;
+      float: right;
+
+  }
+  .ball { 
+      position: relative; 
+      margin: 100px;
+      margin-left: 160px;
+      width:300px;
+      left: 0px; 
+      
+     }
+ .boot { 
+     position: absolute;
+  left: 25px;
+  width:590px;
+ }
+ .fa {
+  text-align: center;
+  text-decoration: none;
+  border-radius: 70%;
+  margin: 10px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #666666;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #666666;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #666666;
+    color: white;
+  }
